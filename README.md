@@ -1,4 +1,4 @@
-# Machine-Learning-And-Cocaine
+# Predicting Cocaine Usage 
 Random Forest Model to try and predict cocaine usage. 
 
 Drugs ruin lives, maybe if we can predict who will use hard drugs we can do something about it. I failed in building a model to do so, but here you can see my attempt and rationale to inspire a successful model. 
