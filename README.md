@@ -15,7 +15,7 @@ https://www.icpsr.umich.edu/web/NACJD/studies/27521/versions/V1/summary
 
 https://www.icpsr.umich.edu/web/pages/NACJD/index.html
 
-#Variables used 
+# Variables used 
 
 I used data on participants age of first drinking alcohol, age of first using marijuana, age of first smoking a cigarette, and if a person ever had a major depressive episode. 
 
