@@ -1,6 +1,4 @@
 # Predicting Cocaine Usage 
-Random Forest Model to predict cocaine usage. 
-
 Drugs ruin lives. I try to use data from the Archive of Criminal Justice Data to predict cocaine usage. I failed to build a good model, but here you can see my attempt and rationale to inspire a successful one. 
 
 # Data 
